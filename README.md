@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Jacob 👋
 
-<!--
-**jacobdarrossi/jacobdarrossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Tech Lead & Cloud Solutions Architect**
 
-Here are some ideas to get you started:
+With over 10 years of experience, I currently lead technical decisions and design scalable cloud architectures at **Gsurf**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📉 **Why is my contribution graph empty?**
+Most of my work involves proprietary code protected by strict **NDAs** and enterprise security protocols. I focus on high-level architecture, infrastructure cost optimization, and backend logic for private repositories, which doesn't reflect on this public graph.
+
+🔭 **Current Focus:**
+- Designing Serverless & Microservices Architectures on AWS
+- Python for backend systems
+- Infrastructure as Code (CloudFormation)
+- Cost Optimization for heavy workloads
+
+🛠 **Tech Stack:**
+- **Cloud:** AWS (EC2, Lambda, RDS, DynamoDB, SQS, SNS, EventBridge, IAM, S3, and others)
+- **Languages:** Python, SQL, PHP
+- **Architecture:** System Design, Scalability, Event-Driven Architecture
+
+📫 **Contact:**
+www.linkedin.com/in/jacob-darrossi-b6972358
+
